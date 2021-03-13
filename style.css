@@ -35,7 +35,7 @@ body{
     border-bottom-style:solid;
     border-color:gray;
     grid-area: hyoudai;
-    background-image: url(logo_p31.png) ;
+    background-image: url(image/logo_p31.png) ;
     background-repeat:no-repeat;
     background-size: 20vw;
     background-position:left;
@@ -171,7 +171,14 @@ aside{
 }
 .kaisyaannai p{
     font-size: 15px;
-    
+}
+.ceo{
+    font-size: 14px;
+}
+.name{
+    font-size: 40px;
+    font-family:cursive;
+    margin-top: 0;
 }
 
 .ryoukinn p{
@@ -195,6 +202,7 @@ aside{
     font-size: 30px;
     font-size: 5vw;
     color:black;
+    
 }
 
 .ryoukinn{
@@ -256,4 +264,7 @@ footer{
  .snpuru img{
      float: block;
  }
+ 
+
+
  
