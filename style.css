@@ -211,7 +211,10 @@ aside{
     margin: 0;
     font-size: 20px;
     border-color:gray;
+    font-family:cursive;
 }
+.ryoukinn h2{
+    font-size:20px;
 
 
 footer{
