@@ -195,7 +195,9 @@ aside{
 .sa-bisu p{
     font-size: 13px;
 }
-
+.sa-bisu ul{
+    list-style: none;
+}
     
 
 .kaisyaannai{
