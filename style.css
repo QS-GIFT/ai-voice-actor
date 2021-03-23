@@ -18,7 +18,7 @@ body{
     "...  main      koukoku   ..."auto
     "...  footer    footer    ..."auto
     "...  .....     .....     ..."10px
-    /0 auto      300px        10px;
+    /0 auto      350px        10px;
 }
 
 
@@ -159,10 +159,10 @@ aside{
 }
 
 .koukoku{
-    width: 250px;
-    height: 150px;
+    width: auto;
+    height: auto;
     color: #000;
-    background-color: royalblue;
+   
     margin: auto;
     margin-top: 10px;
     margin-bottom: 20px;
