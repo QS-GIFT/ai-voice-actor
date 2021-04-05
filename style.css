@@ -114,16 +114,20 @@ main{
   }
   .tab-nav {
     display: flex;
-    width:fr;
+    /* width:fr; */
+    text-align: center;
   }
   .tab-nav-item {
-    margin-right: 4px;
+    margin-right: 2px;
     background:white;
     color:cornflowerblue;
-    padding: 5px 10px;
+    padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px 5px 0 0;
-    font-size: 18px;
+    font-size: 15px;
+    padding: 1px 2px;
+    width: 100%;
+    cursor: pointer;
     
   }
   .tab-nav-item.is-active {
@@ -133,9 +137,11 @@ main{
   .tab-contents {
     border: 3px solid cornflowerblue;
     padding: 20px;
+    
   }
   .tab-contents-item {
     display: none;
+    
   }
 
 
@@ -151,6 +157,8 @@ aside{
 .tubuyaki{
     background-color: white;
     font-family:cursive;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 .tubuyaki p{
     font-size: 15px;
@@ -191,6 +199,8 @@ aside{
     margin: 0;
     font-size: 20px;
     font-family:cursive;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 .sa-bisu p{
     font-size: 13px;
@@ -208,6 +218,8 @@ aside{
     font-size: 5vw;
     color:black;
     font-family:cursive;
+    padding-top: 20px;
+    padding-bottom: 30px;
     
 }
 
@@ -217,6 +229,8 @@ aside{
     font-size: 20px;
     border-color:gray;
     font-family:cursive;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 .ryoukinn h2{
     font-size:20px;
