@@ -144,6 +144,15 @@ main{
     display: none;
     
   }
+  .day{
+      text-align: right;
+      margin-right: 10px;
+  }
+  .kizi{
+      background-color: white;
+      padding:20px 5px 0 5px;
+  }
+  
 
 
 aside{
